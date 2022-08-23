@@ -17,20 +17,20 @@ global.APIKeys = {
 }
 
 //Owner React
-global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.OWNER_REACT = '🧑🏻‍💻💉' //මෙතනට emoji එකක දාන්න.
+global.REACT_NUMBER = '94741199471' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
-global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
-global.group1 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.group2 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By Vihanga MD*' //මෙතන නම.
-global.img = 'https://telegra.ph/file/88d6fdeff08bbc4945901.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
+global.owner = ['94741199471',''] //මෙතන number එක.
+global.premium = ['94741199471','94741199471'] //මෙතන number එක.
+global.botname = '🍫⃮͠᭕𝘘͢υᴇᴇη:|𝙿ꜱʏ͢ᴄʜᴏ⟫ ᴍᴅ ʙᴏᴛ' //මෙතන නම.
+global.ownername = '🍫⃮͠᭕𝘘͢υᴇᴇη:|𝙿ꜱʏ͢ᴄʜᴏ⟫ ᴍᴅ ʙᴏᴛ' //මෙතන නම.
+global.ownername = '🍫⃮͠᭕𝘘͢υᴇᴇη:|𝙿ꜱʏ͢ᴄʜᴏ⟫ ᴍᴅ ʙᴏᴛ' //මෙතන නම.
+global.group1 = 'https://chat.whatsapp.com/EmBzcyhWNAwLyKNFkv6EGS' //මෙතන grouplink එක.
+global.group2 = 'https://chat.whatsapp.com/EmBzcyhWNAwLyKNFkv6EGS' //මෙතන grouplink එක.
+global.packname = '🍫⃮͠᭕𝘘͢υᴇᴇη:|𝙿ꜱʏ͢ᴄʜᴏ⟫|ᴍᴅ ʙᴏᴛ' //මෙතන නම.
+global.cap = '*By 🍫⃮͠᭕𝘘͢υᴇᴇη:|𝙿ꜱʏ͢ᴄʜᴏ⟫ ᴍᴅ*' //මෙතන නම.
+global.img = '<a href="https://ibb.co/D9tM4TR"><img src="https://i.ibb.co/wSRQyjz/Screenshot-2022-08-09-14-32-57-705-com-whatsapp.jpg" alt="Screenshot-2022-08-09-14-32-57-705-com-whatsapp" border="0"></a>' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
 global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
@@ -52,7 +52,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip' //මෙතන මාරු කරන්න එපා.
 global.f5 = 'application/pdf' //මෙතන මාරු කරන්න එපා.
 global.f6 = 'application/vnd.android.package-archive' //මෙතන මාරු කරන්න එපා.
-global.author = 'VIHANGA BOT INC' //මෙතන නම.
+global.author = '🍫⃮͠᭕𝘘͢υᴇᴇη:|𝙿ꜱʏ͢ᴄʜᴏ⟫ ᴍᴅ ʙᴏᴛ' //මෙතන නම.
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=' //මෙතන මාරු කරන්න එපා.
 global.sessionName = 'session' //මෙතන මාරු කරන්න එපා.
 global.prefa = ['','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
